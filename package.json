@@ -2,9 +2,6 @@
   "name": "@vitejs/vite-monorepo",
   "private": true,
   "type": "module",
-  "engines": {
-    "node": "^18.0.0 || >=20.0.0"
-  },
   "homepage": "https://vitejs.dev/",
   "repository": {
     "type": "git",
